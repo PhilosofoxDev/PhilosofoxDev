@@ -1,5 +1,5 @@
-# Hey! I'm Nathan,
-## an independent game developer and student at Miami Univiersity in Ohio.
+### Hey! I'm Nathan,
+### an independent game developer and student at Miami Univiersity in Ohio.
 
 
 
