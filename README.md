@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hey! I'm Nathan,
+an independent game developer and student at Miami Univiersity in Ohio.
+
+
 
 <!--
 **PhilosofoxDev/PhilosofoxDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
